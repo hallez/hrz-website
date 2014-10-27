@@ -10,8 +10,11 @@
 	</div>
 </div> <!-- class="row" -->
 <div class="row">
-	<div class="col-xs-10 col-xs-offset-2">
+	<div class="col-xs-3 col-xs-offset-2">
 		<p><a href="current-research">Current research</a></p>
+	</div>
+	<div class="col-xs-5">
+		<p><a href="cv">CV</a></p>
 	</div>
 </div>
 
