@@ -16,12 +16,16 @@ print <<< EOT
 
 <body>
 	<div id="wrap">
-	<div id="header">
-	<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-		<div class="container">
-			$title
-		</div>
-	</nav>
+		<div id="header">
+		<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+						<h2>$title</h2>
+					</div>
+				</div>
+			</div>
+		</nav>
 	</div>
 		<div class="container page">
 EOT;
