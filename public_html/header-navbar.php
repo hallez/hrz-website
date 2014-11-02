@@ -16,6 +16,13 @@ print <<< EOT
 
 <body>
 	<div id="wrap">
+	<div id="header">
+	<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+		<div class="container">
+			$title
+		</div>
+	</nav>
+	</div>
 		<div class="container page">
 EOT;
 ?>

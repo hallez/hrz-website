@@ -1,4 +1,7 @@
-<?php require('header-navbar.php'); ?>
+<?php
+	$title = 'Halle Zucker';
+	require('header-navbar.php');
+?>
 
 <div class="row">
 	<div class="col-xs-2">

@@ -1,4 +1,7 @@
-<?php require('../header-navbar.php'); ?>
+<?php
+	$title = 'Prior Research';
+	require('../header-navbar.php');
+?>
 
 <div class="row">
 	<div class="col-xs-10 col-xs-offset-2">
