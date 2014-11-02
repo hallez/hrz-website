@@ -1,4 +1,7 @@
 
+
+				</div> <!-- /.col-xs-10 -->
+			</div> <!-- /.row -->
 		</div> <!-- /.container page  -->
 	</div> <!-- /.wrap -->
 		<div id="footer">
