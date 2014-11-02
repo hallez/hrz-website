@@ -5,11 +5,6 @@
 
 <div class="row">
 	<div class="col-xs-10">
-		<h1>Prior research</h1>
-	</div>
-</div> <!-- class="row" -->
-<div class="row">
-	<div class="col-xs-10">
 		<h4>Elizabeth A. Kensinger</h4>
 		<p><a href="https://www2.bc.edu/elizabeth-kensinger/">Cognitive and Affective Neuroscience Lab</a></p>
 	</div>

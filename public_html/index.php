@@ -5,7 +5,6 @@
 
 <div class="row">
 	<div class="col-xs-8">
-		<h1>Halle Zucker</h1>
 		<p class="bio-brief">PhD student interested in memory and all things hippocampal.</p>
 	</div>
 	<div class="col-xs-2">
