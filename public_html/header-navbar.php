@@ -31,7 +31,7 @@ print <<< EOT
 			<div class="row">
 				<div class="col-xs-2">
 					<a href="/">
-						<img src="https://s.gravatar.com/avatar/ceb96a0515eadec4560913866b7e5d18?s=200" class="img-responsive" style="margin-top: 20px;"/>
+						<img src="https://s.gravatar.com/avatar/ceb96a0515eadec4560913866b7e5d18?s=200" class="img-responsive"/>
 					</a>
 				</div>
 				<div class="col-xs-10">

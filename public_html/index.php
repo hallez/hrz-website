@@ -9,7 +9,7 @@
 		<p class="bio-brief">PhD student interested in memory and all things hippocampal.</p>
 	</div>
 	<div class="col-xs-2">
-		<img src="/static/img/HRZ_HC.png" class="img-responsive" style="margin-top: 20px;">
+		<img src="/static/img/HRZ_HC.png" class="img-responsive">
 	</div>
 </div> <!-- class="row" -->
 <div class="row">
