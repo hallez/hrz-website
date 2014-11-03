@@ -26,9 +26,11 @@ print <<< EOT
 					<div class="col-xs-9">
 						<div class="collapse navbar-collapse" id="navbar-collapse">
 							<ul class="nav navbar-nav navbar-right">
+								<li><a href="/">Home</a></li>
 								<li><a href="/publications/">Publications</a></li>
 								<li><a href="/cv/">CV</a></li>
 								<li><a href="/current-research/">Current research</a></li>
+								<li><a href="/prior-research/">Prior research</a></li>
 							</ul>
 						</div>
 					</div>
