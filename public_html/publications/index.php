@@ -4,12 +4,12 @@
 ?>
 
 <div class="row">
-	<div class="col-xs-12">
+	<div class="col-xs-10">
 		<p class="text-muted">Electronic versions of papers are provided as a professional courtesy to ensure timely dissemination of academic work for individual, noncommercial purposes. Copyright resides with the respective copyright holders, as stated within each paper. These files may not be reposted without permission.</p>
 	</div>
 </div>
 <div class="row">
-	<div class="col-xs-12">
+	<div class="col-xs-10">
 		<table class="table table-hover">
 			<thead>
 				<tr>
