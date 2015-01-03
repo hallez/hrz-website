@@ -13,7 +13,7 @@
 				</div>
 				<div class="row">
 					<div class="col-xs-11">
-						<p class="text-muted">&copy; 2014 Halle R. Zucker</p>
+						<p class="text-muted">&copy; 2014-2015 Halle R. Zucker</p>
 					</div>
 					<div class="col-xs-1">
 						<p class="text-muted"><a href="/">Home</a></p>
