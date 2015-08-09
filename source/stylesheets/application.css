@@ -23,3 +23,7 @@ body {
 .hrz-name {
 	font-weight: bold;
 }
+
+.erratum {
+	font-style: italic;
+}
