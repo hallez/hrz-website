@@ -24,10 +24,11 @@ jobs:
   public: false
   serial: true
   plan:
-  - get: website-develop
+  - get: website
+    resource: website-develop
     trigger: true
   - task: build-deploy-site-develop
-    file: website-develop/scripts/ci/build_deploy_site_develop.yml
+    file: website/scripts/ci/build_deploy_site.yml
     config:
       params:
         CF_USER: {{cf-user}}
@@ -55,10 +56,12 @@ jobs:
   public: false
   serial: true
   plan:
-  - get: website-master
+  - get: website
+    resource: website-develop
+    passed: [build-deploy-site-develop]
     trigger: true
   - task: build-deploy-site-master
-    file: website-master/scripts/ci/build_deploy_site_master.yml
+    file: website/scripts/ci/build_deploy_site.yml
     config:
       params:
         CF_USER: {{cf-user}}
@@ -80,3 +83,6 @@ jobs:
         icon_url: http://cl.ly/image/3e1h0H3H2s0P/concourse-logo.png
         channel: {{slack-channel}}
         text: {{slack-master-failure-text}}
+  - put: website-master
+    params:
+      repository: website
