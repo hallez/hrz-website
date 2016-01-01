@@ -52,14 +52,13 @@ jobs:
         channel: {{slack-channel}}
         text: {{slack-develop-failure-text}}
 
-- name: build-deploy-site-master
+- name: shipit
   public: false
   serial: true
   plan:
   - get: website
     resource: website-develop
     passed: [build-deploy-site-develop]
-    trigger: true
   - task: build-deploy-site-master
     file: website/scripts/ci/build_deploy_site.yml
     config:
