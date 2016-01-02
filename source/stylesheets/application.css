@@ -7,17 +7,14 @@ body {
   font-size: 14px;
 }
 
-#header, a{
-  margin-left: 20px;
-  margin-right: 20px;
-}
-
 #header, .navbar {
   border-bottom-width: 0px;
   background-color: #0099cc;
 }
 
 #header a {
+  margin-left: 20px;
+  margin-right: 20px;
   background-color: #0099cc;
   color: #FFFFFF;
 }
@@ -63,6 +60,13 @@ body {
 
   .navbar .navbar-collapse {
     text-align: center;
+  }
+}
+
+
+@media (min-width: 768px) {
+  #footer .credit {
+    text-align: right;
   }
 }
 
