@@ -7,6 +7,10 @@ body {
   font-size: 14px;
 }
 
+#main-page {
+  margin-top: 10px;
+}
+
 #header, .navbar {
   border-bottom-width: 0px;
   background-color: #428bca;
