@@ -9,13 +9,13 @@ body {
 
 #header, .navbar {
   border-bottom-width: 0px;
-  background-color: #0099cc;
+  background-color: #428bca;
 }
 
 #header a {
   margin-left: 20px;
   margin-right: 20px;
-  background-color: #0099cc;
+  background-color: #428bca;
   color: #FFFFFF;
 }
 
