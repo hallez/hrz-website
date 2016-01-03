@@ -19,6 +19,13 @@ resources:
   source:
     url: {{slack-url}}
 
+- name: tracker
+  type: tracker
+  source:
+    token: {{tracker-token}}
+    project_id: {{tracker-project-id}}
+    tracker_url: https://www.pivotaltracker.com
+
 jobs:
 - name: build-deploy-site-develop
   public: false
@@ -38,12 +45,17 @@ jobs:
         CF_APPLICATION: {{cf-application-develop}}
         STATIC_FILE_AUTH: {{static-file-auth-develop}}
     on_success:
-      put: slack_alert
-      params:
-        username: concourse
-        icon_url: http://cl.ly/image/3e1h0H3H2s0P/concourse-logo.png
-        channel: {{slack-channel}}
-        text: {{slack-develop-success-text}}
+      aggregate:
+      - put: slack_alert
+        params:
+          username: concourse
+          icon_url: http://cl.ly/image/3e1h0H3H2s0P/concourse-logo.png
+          channel: {{slack-channel}}
+          text: {{slack-develop-success-text}}
+      - put: tracker
+        params:
+          repos:
+          - website
     on_failure:
       put: slack_alert
       params:
