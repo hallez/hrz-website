@@ -1,34 +1,32 @@
 {{ define "main" }}
 <div class="row">
-	<div class="col-xs-12">
-		<h3>Current Research</h3>
-	</div>
+  <div class="col-xs-12">
+    <h3>Current Research</h3>
+  </div>
 </div>
+
+{{ range .Params.current }}
 <div class="row">
-	<div class="col-xs-12">
-		<h4>Charan Ranganath</h4>
-	</div>
+  <div class="col-xs-12">
+    <h4>{{ .pi }}</h4>
+    <p><a href="{{ .lab.url }}">{{ .lab.name }}</a></p>
+  </div>
 </div>
+{{ end }}
+
 <div class="row">
-	<div class="col-xs-12">
-		<p><a href="http://dml.ucdavis.edu/">Dynamic Memory Lab</a></p>
-	</div>
+  <div class="col-xs-12">
+    <h3>Prior Research</h3>
+  </div>
 </div>
+
+{{ range .Params.previous }}
 <div class="row">
-	<div class="col-xs-12">
-		<h3>Prior Research</h3>
-	</div>
+  <div class="col-xs-12">
+    <h4>{{ .pi }}</h4>
+    <p><a href="{{ .lab.url }}">{{ .lab.name }}</a></p>
+  </div>
 </div>
-<div class="row">
-	<div class="col-xs-12">
-		<h4>Elizabeth A. Kensinger</h4>
-		<p><a href="https://www2.bc.edu/elizabeth-kensinger/">Cognitive and Affective Neuroscience Lab</a></p>
-	</div>
-</div> <!-- class="row" -->
-<div class="row">
-	<div class="col-xs-12">
-		<h4>Patricia A. Reuter-Lorenz</h4>
-		<p><a href="http://www.sitemaker.umich.edu/parl.lab/patricia.reuter-lorenz">Cognitive and Affective Neuropsychology Lab</a></p>
-	</div>
-</div>
+{{ end }}
+
 {{ end }}
