@@ -1,27 +1,8 @@
 {{ define "main" }}
 <div class="row">
-	<div class="col-xs-12">
-		<img src="https://s.gravatar.com/avatar/ceb96a0515eadec4560913866b7e5d18?s=200" id="hrz-home-img" class="img-responsive"/>
-		<p>
-		   I am currently a graduate student in Dr. Charan Ranganath's <a href="http://dml.ucdavis.edu/">Dynamic Memory Lab</a> at <a href="http://psychology.ucdavis.edu/">UC Davis</a>
-			 where my work focuses on the role of context in memory formation and retrieval.
-		</p>
-		<p>
-			 I use high resolution (1.5 mm isotropic voxels) functional magnetic resonance imaging (fMRI)
-		   to look at the patterns of activity across voxels in subregions of the human hippocampus and medial temporal lobes,
-       <a href="http://www.nytimes.com/2008/12/05/us/05hm.html?_r=0">structures intimately implicated in memory</a>.
-		</p>
-		<p>
-		   Prior to being in the DML, I completed my undergraduate training at the <a href="http://lsa.umich.edu/psych">University of Michigan</a> (Go Blue!)
-       where I worked with <a href="http://parl-lab.psych.lsa.umich.edu/">Dr. Patricia Reuter-Lorenz </a>
-			 on the role of <a href="http://deepblue.lib.umich.edu/bitstream/handle/2027.42/77627/hallez.pdf?sequence=1">semantic context in memory performance</a>.
-		</p>
-		<p>
-       I then completed a research assistantship with <a href="https://www2.bc.edu/elizabeth-kensinger/">Dr. Elizabeth Kensinger</a>
-       at <a href="http://www.bc.edu/schools/cas/psych.html">Boston College</a> where I expanded this line of work to investigate
-			 how semantic and phonologic contexts differentially affect <a href="https://s3.amazonaws.com/hrz-website/posters/CogAging2012_FINAL.pdf">
-				 memory performance in college students and healthy elderly</a>.
-			 </p>
-	</div>
+<div class="col-xs-12">
+<img src="https://s.gravatar.com/avatar/ceb96a0515eadec4560913866b7e5d18?s=200" id="hrz-home-img" class="img-responsive"/>
+{{ .Content }}
+</div>
 </div>
 {{ end }}
