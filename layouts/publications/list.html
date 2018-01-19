@@ -8,7 +8,7 @@
 {{ $papers := where .Data.Pages ".Params.preprint" "==" nil }}
 {{ $papers := $papers | union (where .Data.Pages ".Params.preprint" "eq" false) }}
 
-{{ range (slice "2017" "2016" "2015" "2014" "2013" "2012") }}
+{{ range (slice "2018" "2017" "2016" "2015" "2014" "2013" "2012") }}
   {{ $ps := where $papers "Params.year" (int .) }}
   {{ if gt (len $ps) 0 }}
     {{ $.Scratch.Add "groupedPapers" (slice (dict "year" . "papers" $ps) ) }}
