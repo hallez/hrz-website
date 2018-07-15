@@ -16,3 +16,9 @@ authors:
 
 [Scripts](https://github.com/hallez/abcdcon_pub) and
 [stimuli and data](https://osf.io/5th8r/) are provided for reference.
+
+Thanks to
+[The California Aggie](https://theaggie.org/2018/03/05/new-findings-brain-processes-using-virtual-reality/)
+and
+[UC Davis Egghead](https://www.ucdavis.edu/news/using-virtual-reality-identify-brain-areas-involved-memory)
+for their coverage of our work.
