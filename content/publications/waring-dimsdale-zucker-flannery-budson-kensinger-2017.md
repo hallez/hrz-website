@@ -4,7 +4,7 @@ summary: |
   Effects of mild cognitive impairment on emotional scene memory.
   Neuropsychologia, 96, 240&ndash;248.
 year: 2017
-paperURL: http://www.biorxiv.org/content/early/2017/05/25/142349
+paperURL: https://s3.amazonaws.com/hrz-website/papers/waring-kensinger-2017.pdf
 doi: http://dx.doi.org/10.1016/j.neuropsychologia.2017.01.011
 authors:
 - Waring, J. D.
