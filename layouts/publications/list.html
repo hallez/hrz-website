@@ -36,11 +36,17 @@
 	<tr>
 	  <td>
 	    <p>
+	      {{ if .Params.paperURL }}
 	      <a href="{{ .Params.paperURL }}">
 	      {{ delimit $authors ", " ", & " }}
-	      ({{ .Params.year }}). {{ .Params.summary | safeHTML }} doi:
-	      {{ .Params.doi }}
+	      ({{ .Params.year }}). {{ .Params.summary | safeHTML }}
+	      {{ if .Params.doi }}doi: {{ .Params.doi }}{{ end }}
 	      </a>
+	      {{ else }}
+	      {{ delimit $authors ", " ", & " }}
+	      ({{ .Params.year }}). {{ .Params.summary | safeHTML }}
+	      {{ if .Params.doi }}doi: {{ .Params.doi }}{{ end }}
+	      {{ end }}
 	    </p>
 	    {{ with .Content }}{{ . }}{{ end }}
 	    {{ range .Params.errata }}
