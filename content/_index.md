@@ -19,7 +19,7 @@ Prior to being in the DML, I completed my undergraduate training at the
 [University of Michigan](http://lsa.umich.edu/psych) (Go Blue!) where I worked
 with [Dr. Patricia Reuter-Lorenz](http://parl-lab.psych.lsa.umich.edu/) on the
 role of [semantic context in memory
-performance](http://deepblue.lib.umich.edu/bitstream/handle/2027.42/77627/hallez.pdf?sequence=1").
+performance](https://s3.amazonaws.com/hrz-website/papers/dimsdale-zucker_reuter-lorenz_2018.pdf).
 
 I then completed a research assistantship with [Dr. Elizabeth
 Kensinger](https://www2.bc.edu/elizabeth-kensinger/) at [Boston
