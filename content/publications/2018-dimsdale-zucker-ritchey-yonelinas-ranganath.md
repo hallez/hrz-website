@@ -1,5 +1,6 @@
 ---
 title: dimsdale-zucker-ritchey-yonelinas-ranganath-2018
+date: 2018-01-01
 summary: |
   CA1 and CA3 differentially support spontaneous retrieval of episodic contexts
   within human hippocampal subfields. Nature Communications, 9(1).

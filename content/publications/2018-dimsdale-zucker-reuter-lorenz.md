@@ -1,5 +1,6 @@
 ---
 title: dimsdale-zucker-reuter-lorenz-2018
+date: 2018-03-01
 summary: |
   Serial position-dependent false memory effects. Memory.
 year: 2018

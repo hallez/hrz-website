@@ -1,5 +1,6 @@
 ---
 title: dimsdale-zucker-nicholas-2018
+date: 2018-02-01
 summary: |
   Is spatial context privileged in the neural representation of events? Journal of Neuroscience, 38(28), 6241-6243.
 year: 2018

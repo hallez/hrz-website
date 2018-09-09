@@ -1,5 +1,6 @@
 ---
 title: jonker-ranganath-2018
+date: 2018-05-01
 summary: |
   Neural reactivation in parietal cortex enhances memory for episodically-linked information
 year: 2018
