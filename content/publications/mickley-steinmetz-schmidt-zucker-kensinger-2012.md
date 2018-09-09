@@ -2,7 +2,7 @@
 title: mickley-steinmetz-schmidt-zucker-kensinger-2012
 summary: |
   The effect of emotional arousal and retention delay on subsequent-memory
-  effects.  Cognitive Neuroscience, 3(3&ndash;4), 150&ndash;159.
+  effects.  Cognitive Neuroscience, 3(3-4), 150-159.
 year: 2012
 paperURL: https://s3.amazonaws.com/hrz-website/papers/MickleySteinmetz_CogNeurosci2012_Final.pdf
 doi: 10.1080/17588928.2012.677421
