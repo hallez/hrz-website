@@ -12,3 +12,5 @@ authors:
 - Atkins, A. S.
 - Reuter-Lorenz, P. A.
 ---
+
+[Scripts](https://github.com/hallez/serialfm_pub) are provided for reference. 
