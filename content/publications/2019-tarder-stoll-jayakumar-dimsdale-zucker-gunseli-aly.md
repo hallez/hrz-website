@@ -11,7 +11,7 @@ authors:
 - Tarder-Stoll, H. *
 - Jayakumar, M. *
 - Dimsdale-Zucker, H. R.
-- Gunseli, E.
+- G&uuml;nseli, E.
 - Aly, M.
 ---
 
