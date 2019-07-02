@@ -19,7 +19,9 @@ authors:
 [stimuli and data](https://osf.io/5th8r/) are provided for reference.
 
 Thanks to
-[The California Aggie](https://theaggie.org/2018/03/05/new-findings-brain-processes-using-virtual-reality/)
+[The California Aggie](https://theaggie.org/2018/03/05/new-findings-brain-processes-using-virtual-reality/),
+[UC Davis Egghead](https://www.ucdavis.edu/news/using-virtual-reality-identify-brain-areas-involved-memory),
+[eHealthNews](http://www.ehealthnews.eu/research/5477-using-virtual-reality-to-identify-brain-areas-involved-in-memory),
 and
-[UC Davis Egghead](https://www.ucdavis.edu/news/using-virtual-reality-identify-brain-areas-involved-memory)
+[MedicalResearch.com](https://medicalresearch.com/author-interviews/virtual-reality-study-helps-identify-how-memories-are-stored-and-retrieved/39725/)
 for their coverage of our work.
