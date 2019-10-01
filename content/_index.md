@@ -1,19 +1,13 @@
 ---
 title: Halle Dimsdale-Zucker
 ---
-
-I am currently a graduate student in Dr. Charan Ranganath's [Dynamic Memory
-Lab](http://dml.ucdavis.edu/) at [UC Davis](http://psychology.ucdavis.edu/)
-where my work focuses on the role of context in memory formation and retrieval.
-Following completion of my PhD, I will be a post-doc split between the
+I am currently a postdoctoral research scientist in the 
 [Aly](https://www.alylab.org/) and [Baldassano](https://www.dpmlab.org/)
-labs at [Columbia University](https://psychology.columbia.edu/).
+labs at [Columbia University](https://psychology.columbia.edu/) where I use functional magnetic resonance imaging (fMRI) and computational modeling techniques to answer questions about how the brain represents memories.
 
-In my work, I use functional magnetic resonance imaging (fMRI) and
-electroencephalography (EEG) techniques to study how human memory works.
-In particular, much of my work has focused on a structure called the hippocampus,
-which is [intimately implicated in
-memory](http://www.nytimes.com/2008/12/05/us/05hm.html?_r=0).
+I completed my PhD in Dr. Charan Ranganath's [Dynamic Memory
+Lab](http://dml.ucdavis.edu/) at [UC Davis](http://psychology.ucdavis.edu/)
+where my work focused on the role of context in memory formation and retrieval.
 
 Prior to being in the DML, I completed my undergraduate training at the
 [University of Michigan](http://lsa.umich.edu/psych) (Go Blue!) where I worked
