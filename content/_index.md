@@ -11,7 +11,7 @@ where my work focused on the role of context in memory formation and retrieval.
 
 Prior to being in the DML, I completed my undergraduate training at the
 [University of Michigan](http://lsa.umich.edu/psych) (Go Blue!) where I worked
-with [Dr. Patricia Reuter-Lorenz](http://parl-lab.psych.lsa.umich.edu/) on the
+with [Dr. Patricia Reuter-Lorenz](https://sites.lsa.umich.edu/parl-lab/) on the
 role of [semantic context in memory
 performance](https://s3.amazonaws.com/hrz-website/papers/dimsdale-zucker_reuter-lorenz_2018.pdf).
 
