@@ -1,5 +1,5 @@
 ---
-title: 2020-tarder-stoll-jayakumar-dimsdale-zucker-gunseli-aly
+title: tarder-stoll-jayakumar-dimsdale-zucker-gunseli-aly-2020
 date: 2020-01-01
 summary: |
   Dynamic internal states shape memory retrieval. Neuropsychologia.
