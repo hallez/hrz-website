@@ -1,12 +1,12 @@
 ---
-title: 2019-tarder-stoll-jayakumar-dimsdale-zucker-gunseli-aly
-date: 2019-07-01
+title: 2020-tarder-stoll-jayakumar-dimsdale-zucker-gunseli-aly
+date: 2020-01-01
 summary: |
-  Dynamic internal states shape memory retrieval. PsyArXiv.
-preprint: true  
-year: 2019
+  Dynamic internal states shape memory retrieval. Neuropsychologia.
+preprint: false  
+year: 2020
 paperURL: https://psyarxiv.com/kudj3/
-doi: 10.31234/osf.io/kudj3
+doi: 10.1016/j.neuropsychologia.2019.107328
 authors:
 - Tarder-Stoll, H. *
 - Jayakumar, M. *
