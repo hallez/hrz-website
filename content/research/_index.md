@@ -1,11 +1,19 @@
 ---
 title: Research
 current:
+- pi: Mariam Aly
+  lab:
+    name: Aly Lab
+    url: https://www.alylab.org/
+- pi: Christopher Baldassano
+  lab:
+    name: Dynamic Perception and Memory Lab
+    url: https://www.dpmlab.org/
+previous:
 - pi: Charan Ranganath
   lab:
     name: Dynamic Memory Lab
     url: http://dml.ucdavis.edu/
-previous:
 - pi: Elizabeth A. Kensinger
   lab:
     name: Cognitive and Affective Neuroscience Lab
