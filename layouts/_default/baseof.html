@@ -49,11 +49,11 @@
               </button>
 	      <div class="collapse navbar-collapse" id="navbar-collapse">
 		<ul class="nav navbar-nav">
-      <li {{ if eq .URL "/" }}class="current-page-header"{{ end }}><a href="/">HALLE R. DIMSDALE-ZUCKER</a></li>
-      <li {{ if eq .URL "/publications/" }}class="current-page-header"{{ end }}><a href="/publications/">PUBLICATIONS</a></li>
-      <li {{ if eq .URL "/cv/" }}class="current-page-header" {{ end }}><a href="/cv/">CV</a></li>
-      <li {{ if eq .URL "/research/" }}class="current-page-header"{{ end }}><a href="/research/">RESEARCH</a></li>
-      <li {{ if eq .URL "/resources/" }}class="current-page-header"{{ end }}><a href="/resources/">RESOURCES</a></li>
+      <li {{ if eq .RelPermalink "/" }}class="current-page-header"{{ end }}><a href="/">HALLE R. DIMSDALE-ZUCKER</a></li>
+      <li {{ if eq .RelPermalink "/publications/" }}class="current-page-header"{{ end }}><a href="/publications/">PUBLICATIONS</a></li>
+      <li {{ if eq .RelPermalink "/cv/" }}class="current-page-header" {{ end }}><a href="/cv/">CV</a></li>
+      <li {{ if eq .RelPermalink "/research/" }}class="current-page-header"{{ end }}><a href="/research/">RESEARCH</a></li>
+      <li {{ if eq .RelPermalink "/resources/" }}class="current-page-header"{{ end }}><a href="/resources/">RESOURCES</a></li>
 		</ul>
 	      </div>
 	    </div>
