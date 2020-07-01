@@ -1,0 +1,85 @@
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+  padding-top: 25px;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 14px;
+}
+
+#main-page {
+  padding-top: 10px;
+}
+
+#header, .navbar {
+  border-bottom-width: 0px;
+  background-color: #428bca;
+}
+
+#header a {
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: #428bca;
+  color: #FFFFFF;
+}
+
+#header .current-page-header a {
+  color: #000;
+}
+
+/* http://stackoverflow.com/questions/16625972/change-color-of-bootstrap-navbar-on-hover-link */
+#header a:hover {
+  color: #000 !important;
+}
+
+#navbar-collapse {
+  border-top-width: 0px;
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto;
+  /* Negative indent footer by its height */
+  margin: 0 auto -81px;
+  /* Pad bottom by footer height */
+  padding: 0 0 81px;
+}
+
+.hrz-name {
+  font-weight: bold;
+}
+
+.erratum {
+  font-style: italic;
+}
+
+/* http://stackoverflow.com/questions/18777235/center-content-in-responsive-bootstrap-navbar */
+@media (min-width: 768px) {
+  .navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+  }
+
+  .navbar .navbar-collapse {
+    text-align: center;
+  }
+}
+
+
+@media (min-width: 768px) {
+  #footer .credit {
+    text-align: right;
+  }
+}
+
+#hrz-home-img {
+  float: left;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+
+li {
+  list-style: none;
+}
