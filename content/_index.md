@@ -22,9 +22,10 @@ of work to investigate how semantic and phonologic contexts differentially
 affect [memory performance in college students and healthy
 elderly individuals](https://s3.amazonaws.com/hrz-website/posters/CogAging2012_FINAL.pdf).
 
-I endeavor to make space for Black and other underrepresented minoritized folx in
+I endeavor to prioritize womxn, Black, and other underrepresented minoritized folx in
 my mentoring. Please get in touch if I can provide support (e.g., tips on applying
-to grad school, reviewing CVs, etc.) There is also a list of some resources and
-readings that I am continually using to educate myself [here](/resources).
-I invite criticism and critiques of how I can be a better ally and mentor in general,
+to grad school, reviewing CVs, etc.). There is also a list of some resources and
+readings that I am continually using to educate myself [here](/resources) including 
+these [Concrete Actions for Academics](https://docs.google.com/document/d/1Ic6bil2AvrQmPFUcUyxcw_FumofKkUo3VLsU7qG0cTk/preview?pru=AAABcsK8OBM*vB48ngj1AcbyWPbpAoY87Q#).
+I invite criticism and critiques of how I can provide better mentorship and allyship in general,
 but, specifically to Black and underrepresented minoritized scientists.
