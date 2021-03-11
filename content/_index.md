@@ -22,7 +22,7 @@ of work to investigate how semantic and phonologic contexts differentially
 affect [memory performance in college students and healthy
 elderly individuals](https://s3.amazonaws.com/hrz-website/posters/CogAging2012_FINAL.pdf).
 
-I endeavor to prioritize womxn, Black, and other underrepresented minoritized folx in
+I endeavor to prioritize womxn, Black, and other underrepresented minoritized folks in
 my mentoring. Please get in touch if I can provide support (e.g., tips on applying
 to grad school, reviewing CVs, etc.). There is also a list of some resources and
 readings that I am continually using to educate myself [here](/resources) including 
