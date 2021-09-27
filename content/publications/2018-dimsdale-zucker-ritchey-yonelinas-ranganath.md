@@ -16,7 +16,7 @@ authors:
 ---
 
 [Scripts](https://github.com/hallez/abcdcon_pub) and
-[stimuli and data](https://osf.io/5th8r/) are provided for reference.
+[stimuli and data](https://osf.io/5th8r/) are provided for reference. [Supplemental analyses](https://hrz-website.s3.amazonaws.com/papers/dimsdale-zucker_natcomm-supplemental-2018.pdf).
 
 Thanks to
 [The California Aggie](https://theaggie.org/2018/03/05/new-findings-brain-processes-using-virtual-reality/),
