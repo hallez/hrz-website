@@ -17,8 +17,6 @@ body {
 }
 
 #header a {
-  margin-left: 20px;
-  margin-right: 20px;
   background-color: #428bca;
   color: #FFFFFF;
 }
@@ -71,6 +69,13 @@ body {
 @media (min-width: 768px) {
   #footer .credit {
     text-align: right;
+  }
+}
+
+@media (min-width: 1200px) {
+  #header a {
+    margin-left: 20px;
+    margin-right: 20px;
   }
 }
 
