@@ -13,7 +13,3 @@ hugo server
 ```
 
 This will serve the website at: http://localhost:1313, and will automatically update.
-
-Check that things look good at stage.hallezucker.com
-
-Concourse it: log in to https://concourse.dimsdalezucker.com/teams/main/pipelines/hrz-website/jobs/production and click the + button
