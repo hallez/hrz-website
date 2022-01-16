@@ -12,15 +12,25 @@ title: Resources
 #### EEG Setup Training Videos
 
 * [BioSemi system setup](https://photos.app.goo.gl/K9JDrSUw8LSRBskI2).
-Filmed by [Kamin Kim](https://scholar.google.com/citations?user=9iEjQgcAAAAJ&hl=en).
-Featuring my excellent research assistants [Meyhaa Buvanesh](http://geh.ucsd.edu/team/meyhaa-buvanesh/) and
+Filmed by
+[Kamin Kim](https://scholar.google.com/citations?user=9iEjQgcAAAAJ&hl=en).
+Featuring my excellent research assistants
+[Meyhaa Buvanesh](http://geh.ucsd.edu/team/meyhaa-buvanesh/) and
 [Aria Fereydouni](https://twitter.com/aria_fereydouni),
 with me as the participant.
 Please feel free to use and share with attribution.
 Opinions and suggestions are our own.
 
 #### Historical CVs
-I find that it can be intimidating to look at the CVs of people in the positions you're applying to. However, many times, we forget that we're looking at someone who is often *several (or more!) years* into this position. Therefore, I am sharing historical versions of my CV so that you have a representative perspective of my achievements when I was applying for different positions from post-undergraduate through to faculty. Furthermore, this should allow you to see (at least one person's) trajectory. I hope this helps with the kinds of feelings of under-achievement I had, especially as an early graduate student who struggled to publish empirical work for many years.
+I find that it can be intimidating to look at the CVs of people in the
+positions you're applying to. However, many times, we forget that we're looking
+at someone who is often *several (or more!) years* into this position.
+Therefore, I am sharing historical versions of my CV so that you have a
+representative perspective of my achievements when I was applying for different
+positions from post-undergraduate through to faculty. Furthermore, this should
+allow you to see (at least one person's) trajectory. I hope this helps with the
+kinds of feelings of under-achievement I had, especially as an early graduate
+student who struggled to publish empirical work for many years.
 
 * [CV used when applying for lab manager positions, post-undergrad](https://hrz-website.s3.amazonaws.com/historical-CVs/HalleZucker_CV_no-contact-info_110209.pdf)
 * [CV used when applying to graduate school](https://hrz-website.s3.amazonaws.com/historical-CVs/HalleZucker_CV_no-contact-info-031212.pdf)
