@@ -1,11 +1,12 @@
 ---
 title: Halle Dimsdale-Zucker
 ---
-I am currently a postdoctoral research scientist in the
+I am currently a postdoctoral research fellow in the
 [Aly](https://www.alylab.org/) and [Baldassano](https://www.dpmlab.org/) labs
 at [Columbia University](https://psychology.columbia.edu/) where I use
 functional magnetic resonance imaging (fMRI) and computational modeling
 techniques to answer questions about how the brain represents memories.
+My work is funded by a NRSA F32 fellowship from the National Eye Institute (federal award #: F32EY032352).
 
 I completed my PhD in Dr. Charan Ranganath's [Dynamic Memory
 Lab](http://dml.ucdavis.edu/) at [UC Davis](http://psychology.ucdavis.edu/)
