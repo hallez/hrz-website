@@ -3,7 +3,7 @@ title: 2022-dimsdale-zucker-montchal-reagh-wang-libby-ranganath
 date: 2022-02-01
 summary: |
   Representations of complex contexts: A role for hippocampus
-  preprint: true  
+preprint: true  
 year: 2022
 paperURL: https://www.biorxiv.org/content/10.1101/766311v3
 doi: 10.31234/osf.io/kudj3
