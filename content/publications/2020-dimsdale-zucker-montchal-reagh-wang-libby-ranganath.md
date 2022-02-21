@@ -1,5 +1,5 @@
 ---
-title: 2022-dimsdale-zucker-montchal-reagh-wang-libby-ranganath
+title: 2020-dimsdale-zucker-montchal-reagh-wang-libby-ranganath
 date: 2022-02-01
 summary: |
   Representations of complex contexts: A role for hippocampus
