@@ -6,7 +6,7 @@ summary: |
 preprint: true  
 year: 2022
 paperURL: https://www.biorxiv.org/content/10.1101/766311v3
-doi: 10.31234/osf.io/kudj3
+doi: 10.1101/766311
 authors:
 - Dimsdale-Zucker, H. R.
 - Montchal, M. E.
