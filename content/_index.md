@@ -8,6 +8,13 @@ functional magnetic resonance imaging (fMRI) and computational modeling
 techniques to answer questions about how the brain represents memories.
 My work is funded by a NRSA F32 fellowship from the National Eye Institute (federal award #: F32EY032352).
 
+I will be joining [UC Riverside](https://psychology.ucr.edu/) as an Assistant Professor, starting Summer 2023.
+If you are interested in joining the lab as a lab manager, graduate student, or postdoc,
+please [email me](mailto:hdimsdalezucker@gmail.com) your CV. Official job postings will be linked, once available.
+For information regarding pay and benefits, please see UCR's [standard benefits information]() as well as
+general compensation rates for [lab managers](), [graduate students](https://supportinggraduatestudents.ucr.edu/compensation-benefits), 
+and [postdocs](https://graduate.ucr.edu/postdoctoral-studies#:~:text=Salary%20scales%20(Exempt)%C2%A0effective%2002/01/2021).
+
 I completed my PhD in Dr. Charan Ranganath's [Dynamic Memory
 Lab](http://dml.ucdavis.edu/) at [UC Davis](http://psychology.ucdavis.edu/)
 where my work focused on the role of context in memory formation and retrieval.
