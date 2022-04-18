@@ -10,27 +10,11 @@ My work is funded by a NRSA F32 fellowship from the National Eye Institute (fede
 
 I will be joining [UC Riverside](https://psychology.ucr.edu/) as an Assistant Professor, starting Summer 2023.
 If you are interested in joining the lab as a lab manager, graduate student, or postdoc,
-please [email me](mailto:hdimsdalezucker@gmail.com) your CV. Official job postings will be linked, once available.
-For information regarding pay and benefits, please see UCR's [standard benefits information]() as well as
-general compensation rates for [lab managers](), [graduate students](https://supportinggraduatestudents.ucr.edu/compensation-benefits), 
+please [email me](mailto:halledz@gmail.com) your CV. Official job postings will be linked, once available.
+For information regarding pay and benefits, please see UCR's [standard benefits information](https://ucnet.universityofcalifornia.edu/compensation-and-benefits/index.html) as well as
+general compensation rates for [graduate students](https://supportinggraduatestudents.ucr.edu/compensation-benefits), 
 and [postdocs](https://graduate.ucr.edu/postdoctoral-studies#:~:text=Salary%20scales%20(Exempt)%C2%A0effective%2002/01/2021).
-
-I completed my PhD in Dr. Charan Ranganath's [Dynamic Memory
-Lab](http://dml.ucdavis.edu/) at [UC Davis](http://psychology.ucdavis.edu/)
-where my work focused on the role of context in memory formation and retrieval.
-
-Prior to being in the DML, I completed my undergraduate training at the
-[University of Michigan](http://lsa.umich.edu/psych) (Go Blue!) where I worked
-with [Dr. Patricia Reuter-Lorenz](https://sites.lsa.umich.edu/parl-lab/) on the
-role of [semantic context in memory
-performance](https://s3.amazonaws.com/hrz-website/papers/dimsdale-zucker_reuter-lorenz_2018.pdf).
-
-I then completed a research assistantship with [Dr. Elizabeth
-Kensinger](https://www2.bc.edu/elizabeth-kensinger/) at [Boston
-College](http://www.bc.edu/schools/cas/psych.html) where I expanded this line
-of work to investigate how semantic and phonologic contexts differentially
-affect [memory performance in college students and healthy
-elderly individuals](https://s3.amazonaws.com/hrz-website/posters/CogAging2012_FINAL.pdf).
+Lab manager compensation ranges vary based on experience; please contact me directly for more information.
 
 I endeavor to prioritize women, Black, and other historically marginalized folks in
 my mentoring. Please get in touch if I can provide support (e.g., tips on applying
