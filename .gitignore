@@ -19,3 +19,4 @@
 
 Staticfile.auth
 public/
+.hugo_build.lock
