@@ -10,7 +10,7 @@ My work is funded by a NRSA F32 fellowship from the National Eye Institute (fede
 
 I will be joining [UC Riverside](https://psychology.ucr.edu/) as an Assistant Professor, starting Summer 2023.
 If you are interested in joining the lab as a lab manager, graduate student, or postdoc,
-please email me (<halledz@gmail.com>) your CV. Official job postings will be linked, once available.
+please email me (<halledz@ucr.edu>) your CV. Official job postings will be linked, once available.
 For information regarding pay and benefits, please see UCR's [standard benefits information](https://ucnet.universityofcalifornia.edu/compensation-and-benefits/index.html) as well as
 general compensation rates for [graduate students](https://supportinggraduatestudents.ucr.edu/compensation-benefits), 
 and [postdocs](https://graduate.ucr.edu/postdoctoral-studies#:~:text=Salary%20scales%20(Exempt)%C2%A0effective%2002/01/2021).
