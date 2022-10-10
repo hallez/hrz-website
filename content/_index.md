@@ -2,7 +2,7 @@
 title: Halle Dimsdale-Zucker
 ---
 I am currently a postdoctoral research fellow in the
-[Aly](https://www.alylab.org/) and [Baldassano](https://www.dpmlab.org/) labs
+[Baldassano](https://www.dpmlab.org/) lab
 at [Columbia University](https://psychology.columbia.edu/) where I use
 functional magnetic resonance imaging (fMRI) and computational modeling
 techniques to answer questions about how the brain represents memories.
