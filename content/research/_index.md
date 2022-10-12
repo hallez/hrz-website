@@ -1,15 +1,15 @@
 ---
 title: Research
 current:
-- pi: Mariam Aly
-  lab:
-    name: Aly Lab
-    url: https://www.alylab.org/
 - pi: Christopher Baldassano
   lab:
     name: Dynamic Perception and Memory Lab
     url: https://www.dpmlab.org/
 previous:
+- pi: Mariam Aly
+  lab:
+    name: Aly Lab
+    url: https://www.alylab.org/
 - pi: Charan Ranganath
   lab:
     name: Dynamic Memory Lab
