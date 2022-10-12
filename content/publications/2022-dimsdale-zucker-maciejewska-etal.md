@@ -1,11 +1,10 @@
 ---
 title: 2022-dimsdale-zucker-maciejewska-etal
 date: 2022-04-01
-summary: Relationships between individual differences in dual process and electrophysiological signatures of familiarity and recollection during retrieval. bioRxiv.
-preprint: true  
+summary: Relationships between individual differences in dual process and electrophysiological signatures of familiarity and recollection during retrieval. Neuropsychologia.
 year: 2022
-paperURL: https://www.biorxiv.org/content/10.1101/2021.09.15.460509v2
-doi: 10.1101/2021.09.15.460509
+paperURL: https://www.sciencedirect.com/science/article/abs/pii/S0028393222001464
+doi: https://doi.org/10.1016/j.neuropsychologia.2022.108287
 authors:
 - Dimsdale-Zucker, H. R.
 - Maciejewska, K.
