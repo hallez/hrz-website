@@ -1,7 +1,7 @@
 ---
 title: Halle Dimsdale-Zucker
 ---
-I am currently an Assistant Professor at [UC Riverside](https://psychology.ucr.edu/) (lab website, coming soon!) My lab studies how context (e.g., cognitive or mental context, temporal context, spatial context, and many others) influences what we remember and how our memories are represented by the brain. We are also interested in how these processes change across the lifespan into older adulthood. I use behavioral and computational approaches as well as brain imaging tools like functional magnetic resonance imaging (fMRI) and electroencephalography (EEG) in my research.
+I am currently an Assistant Professor at [UC Riverside](https://psychology.ucr.edu/). [My lab](https://dzlab.ucr.edu/) studies how context (e.g., cognitive or mental context, temporal context, spatial context, and many others) influences what we remember and how our memories are represented by the brain. We are also interested in how these processes change across the lifespan into older adulthood. I use behavioral and computational approaches as well as brain imaging tools like functional magnetic resonance imaging (fMRI) and electroencephalography (EEG) in my research.
 
 I am accepting PhD applicants for the 2023 admissions cycle. If you are interested in joining the lab as a graduate student
 please [consult my FAQ page](https://docs.google.com/document/d/11DohBPw27yoEphATbT7Ll413yeDjsG7_CdF_KZcxQnQ/edit?usp=drive_link). If you are interested in joining the lab as a postdoc, please [email me directly](mailto:halledz@ucr.edu). For information regarding pay and benefits, please see UCR's [standard benefits information](https://ucnet.universityofcalifornia.edu/compensation-and-benefits/index.html) as well as
