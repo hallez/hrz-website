@@ -38,7 +38,7 @@
 	    <p>
 	      {{ if .Params.paperURL }}
 	      <a href="{{ .Params.paperURL }}">
-	      {{ delimit $authors ", " ", & " }}
+	      {{ delimit $authors ", " ", & " | safeHTML }}
 	      ({{ .Params.year }}). {{ .Params.summary | safeHTML }}
 	      {{ if .Params.doi }}doi: {{ .Params.doi }}{{ end }}
 	      </a>
